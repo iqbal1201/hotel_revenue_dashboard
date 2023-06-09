@@ -16,3 +16,5 @@ The step for this project:
 
 
 The output result
+
+![image](https://github.com/iqbal1201/hotel_revenue_dashboard/assets/70199329/1f773973-dde8-46b1-84db-ce337a6eb7f4)
